@@ -137,7 +137,6 @@ body {
     border-radius: 5px;
     background-color: #FF0000;
     font-size: 20px;
-    list-style: none;
 }
 
 .left {
@@ -208,4 +207,21 @@ body {
 
 .des {
     background-color: antiquewhite;
+}
+
+.photo {
+    position: absolute;
+    right: 5px;
+}
+
+
+.last-pera {
+    background-color: black;
+    top: 10px;
+
+}
+
+.last-pera p {
+    color: #FFFFFF;
+    text-align: left;
 }
